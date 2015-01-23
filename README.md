@@ -1,6 +1,6 @@
 # Android SDK 0.8.3 BETA
 
-Currently in private beta. If you'd like an invite, please email us. brian.donohue@intercom.mail.intercom.io.
+Currently in private beta. If you'd like an invite, please email us at brian.donohue@intercom.mail.intercom.io.
 
 ## Supported versions
 Supports Android 2.3 (API 9) for data only calls and 4.0.3 (API 15) and above for the messaging functionality
